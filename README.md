@@ -1,1 +1,10 @@
-# 3D tests with Three.js, React Three Fiber & Drei# r3f-projects
+# 3D test projects
+
+## Tech stack:
+- Next.js
+- Tailwind CSS
+
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Maath
